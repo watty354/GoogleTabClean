@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "GoogleTabClean",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "img/souji_zoukin_girl.png",
+        "default_popup": "tabClean.html",
+        "default_title": "Googleタブ一掃"
+    },
+    "permissopms": [
+        "tabClean"
+    ]
+}
